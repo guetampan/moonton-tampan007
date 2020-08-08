@@ -6,7 +6,6 @@
 # Name           : Moonton Account Checker V3              #
 # File           : moonton.py                              #
 # Author         : TAMPAN007-CHECKER                       #
-# Python version : 3.7++                                   #
 ############################################################
 
 import os, sys, hashlib, json, random, re
